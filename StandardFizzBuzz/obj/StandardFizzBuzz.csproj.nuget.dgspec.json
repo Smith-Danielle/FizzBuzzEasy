@@ -1,0 +1,122 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Danielle\\Documents\\Career_2023\\Jobs Applied\\SmartVault\\FizzBuzzEasy\\StandardFizzBuzz\\StandardFizzBuzz.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Danielle\\Documents\\Career_2023\\Jobs Applied\\SmartVault\\FizzBuzzEasy\\StandardFizzBuzz\\StandardFizzBuzz.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Danielle\\Documents\\Career_2023\\Jobs Applied\\SmartVault\\FizzBuzzEasy\\StandardFizzBuzz\\StandardFizzBuzz.csproj",
+        "projectName": "StandardFizzBuzz",
+        "projectPath": "C:\\Users\\Danielle\\Documents\\Career_2023\\Jobs Applied\\SmartVault\\FizzBuzzEasy\\StandardFizzBuzz\\StandardFizzBuzz.csproj",
+        "packagesPath": "C:\\Users\\Danielle\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Danielle\\Documents\\Career_2023\\Jobs Applied\\SmartVault\\FizzBuzzEasy\\StandardFizzBuzz\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Danielle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Danielle\\Documents\\Career_2023\\Jobs Applied\\SmartVault\\FizzBuzzEasy\\TwistedFizzBuzz\\TwistedFizzBuzz.csproj": {
+                "projectPath": "C:\\Users\\Danielle\\Documents\\Career_2023\\Jobs Applied\\SmartVault\\FizzBuzzEasy\\TwistedFizzBuzz\\TwistedFizzBuzz.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Danielle\\Documents\\Career_2023\\Jobs Applied\\SmartVault\\FizzBuzzEasy\\TwistedFizzBuzz\\TwistedFizzBuzz.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Danielle\\Documents\\Career_2023\\Jobs Applied\\SmartVault\\FizzBuzzEasy\\TwistedFizzBuzz\\TwistedFizzBuzz.csproj",
+        "projectName": "TwistedFizzBuzz",
+        "projectPath": "C:\\Users\\Danielle\\Documents\\Career_2023\\Jobs Applied\\SmartVault\\FizzBuzzEasy\\TwistedFizzBuzz\\TwistedFizzBuzz.csproj",
+        "packagesPath": "C:\\Users\\Danielle\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Danielle\\Documents\\Career_2023\\Jobs Applied\\SmartVault\\FizzBuzzEasy\\TwistedFizzBuzz\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Danielle\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

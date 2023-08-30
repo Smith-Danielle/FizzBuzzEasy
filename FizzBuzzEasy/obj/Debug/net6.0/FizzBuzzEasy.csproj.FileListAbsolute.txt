@@ -1,0 +1,14 @@
+C:\Users\Danielle\Documents\Career_2023\Jobs Applied\SmartVault\FizzBuzzEasy\FizzBuzzEasy\bin\Debug\net6.0\FizzBuzzEasy.exe
+C:\Users\Danielle\Documents\Career_2023\Jobs Applied\SmartVault\FizzBuzzEasy\FizzBuzzEasy\bin\Debug\net6.0\FizzBuzzEasy.deps.json
+C:\Users\Danielle\Documents\Career_2023\Jobs Applied\SmartVault\FizzBuzzEasy\FizzBuzzEasy\bin\Debug\net6.0\FizzBuzzEasy.runtimeconfig.json
+C:\Users\Danielle\Documents\Career_2023\Jobs Applied\SmartVault\FizzBuzzEasy\FizzBuzzEasy\bin\Debug\net6.0\FizzBuzzEasy.dll
+C:\Users\Danielle\Documents\Career_2023\Jobs Applied\SmartVault\FizzBuzzEasy\FizzBuzzEasy\bin\Debug\net6.0\FizzBuzzEasy.pdb
+C:\Users\Danielle\Documents\Career_2023\Jobs Applied\SmartVault\FizzBuzzEasy\FizzBuzzEasy\obj\Debug\net6.0\FizzBuzzEasy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Danielle\Documents\Career_2023\Jobs Applied\SmartVault\FizzBuzzEasy\FizzBuzzEasy\obj\Debug\net6.0\FizzBuzzEasy.AssemblyInfoInputs.cache
+C:\Users\Danielle\Documents\Career_2023\Jobs Applied\SmartVault\FizzBuzzEasy\FizzBuzzEasy\obj\Debug\net6.0\FizzBuzzEasy.AssemblyInfo.cs
+C:\Users\Danielle\Documents\Career_2023\Jobs Applied\SmartVault\FizzBuzzEasy\FizzBuzzEasy\obj\Debug\net6.0\FizzBuzzEasy.csproj.CoreCompileInputs.cache
+C:\Users\Danielle\Documents\Career_2023\Jobs Applied\SmartVault\FizzBuzzEasy\FizzBuzzEasy\obj\Debug\net6.0\FizzBuzzEasy.dll
+C:\Users\Danielle\Documents\Career_2023\Jobs Applied\SmartVault\FizzBuzzEasy\FizzBuzzEasy\obj\Debug\net6.0\refint\FizzBuzzEasy.dll
+C:\Users\Danielle\Documents\Career_2023\Jobs Applied\SmartVault\FizzBuzzEasy\FizzBuzzEasy\obj\Debug\net6.0\FizzBuzzEasy.pdb
+C:\Users\Danielle\Documents\Career_2023\Jobs Applied\SmartVault\FizzBuzzEasy\FizzBuzzEasy\obj\Debug\net6.0\FizzBuzzEasy.genruntimeconfig.cache
+C:\Users\Danielle\Documents\Career_2023\Jobs Applied\SmartVault\FizzBuzzEasy\FizzBuzzEasy\obj\Debug\net6.0\ref\FizzBuzzEasy.dll

@@ -11,7 +11,7 @@ namespace StandardFizzBuzz
             {
                 Start = 1,
                 End = 100,
-                NameDivisior = new Dictionary<int, string>
+                NameDivisor = new Dictionary<int, string>
                 {
                     { 3, "Fizz"},
                     { 5, "Buzz" }

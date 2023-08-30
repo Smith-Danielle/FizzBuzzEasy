@@ -5,7 +5,7 @@
         public int Start { get; set; }
         public int End { get; set; }
         public List<int> NumberSet { get; set; } = new List<int>();
-        public Dictionary<int, string> NameDivisior { get; set; } = new Dictionary<int, string>();
+        public Dictionary<int, string> NameDivisor { get; set; } = new Dictionary<int, string>();
 
         public List<string> CreateFizzBuzz()
         {
@@ -28,7 +28,7 @@
             //Fill list.
             for (int i = 0; i < numberSelection.Count(); i++)
             {
-                var divisibleGroup = NameDivisior.Where(x => numberSelection[i] % x.Key == 0);
+                var divisibleGroup = NameDivisor.Where(x => numberSelection[i] % x.Key == 0);
                 if (divisibleGroup.Any())
                 {
                     fizzBuzzList.Add(string.Join("", divisibleGroup.Select(x => x.Value)));

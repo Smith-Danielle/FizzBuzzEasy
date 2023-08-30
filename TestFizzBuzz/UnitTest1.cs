@@ -5,7 +5,7 @@ namespace TestFizzBuzz
 {
     public class UnitTest1
     {
-        //Empty Name And Divsor input with NumberSet input only. Should print inputed range or set of numbers only.
+        //Empty Name And Divisor input with NumberSet input only. Should print inputed range or set of numbers only.
         [Fact]
         public void Test1()
         {
@@ -22,14 +22,14 @@ namespace TestFizzBuzz
             Assert.Equal(actual, new List<string> { "4", "25", "67", "23", "44", "-81", "5" });
         }
 
-        //Empty Start, End, and NumberSet inputs with Name And Divsor input only. Should print nothing.
+        //Empty Start, End, and NumberSet inputs with Name And Divisor input only. Should print nothing.
         [Fact]
         public void Test2()
         {
             //Arrange
             var test = new Twisted
             {
-                NameDivisior = new Dictionary<int, string>
+                NameDivisor = new Dictionary<int, string>
                 {
                     { 2, "Fizz"},
                     { 7, "Buzz" }
@@ -71,7 +71,7 @@ namespace TestFizzBuzz
             {
                 Start = 1,
                 End = 50,
-                NameDivisior = new Dictionary<int, string>
+                NameDivisor = new Dictionary<int, string>
                 {
                     { 3, "Fizz"},
                     { 5, "Buzz" }
@@ -100,7 +100,7 @@ namespace TestFizzBuzz
             {
                 Start = 1,
                 End = 50,
-                NameDivisior = new Dictionary<int, string>
+                NameDivisor = new Dictionary<int, string>
                 {
                     { 3, "Fizz"},
                     { 5, "Buzz" },
@@ -130,7 +130,7 @@ namespace TestFizzBuzz
             var test = new Twisted
             {
                 NumberSet = new List<int> { 40, 20, 5, 30, 15, -2, 25, 12, -9 },
-                NameDivisior = new Dictionary<int, string>
+                NameDivisor = new Dictionary<int, string>
                 {
                     { 3, "Fizz"},
                     { 5, "Buzz" }
@@ -158,7 +158,7 @@ namespace TestFizzBuzz
             var test = new Twisted
             {
                 NumberSet = new List<int> { 33, 20, 45, 30, 15, -1, 32, 12, -9 },
-                NameDivisior = new Dictionary<int, string>
+                NameDivisor = new Dictionary<int, string>
                 {
                     { 3, "Fizz"},
                     { 5, "Buzz" },
